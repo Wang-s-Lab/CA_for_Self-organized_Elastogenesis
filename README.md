@@ -3,3 +3,4 @@ Cellular automata (CA) simulations of the process of extracellular assembly of T
 ## Usage
 To run a cellular automata simulations with the standard parameter, uncomment line 5-10 in file main.m 
 ## License
+ Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
